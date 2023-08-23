@@ -1,4 +1,4 @@
-pimport java.lang.Thread.State;
+import java.lang.Thread.State;
 
 /**
  * JAVA MULTITHREAD - Volatile e Yield - Exemplo reproduzível
